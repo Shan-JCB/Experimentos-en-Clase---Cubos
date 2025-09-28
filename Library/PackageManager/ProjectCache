@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638929827303009062
-    m_Hash: 3979996139
+      ticks: 638944054676785312
+    m_Hash: 3693497500
   m_LockFileStatus:
     m_FilePath: "D:/Videojuegos-Proyects/CuboMagico/Cubo M\xE1gico/Packages/packages-lock.json"
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638929828565240933
-    m_Hash: 983522730
+      ticks: 638944054676805319
+    m_Hash: 1915973808
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -366,6 +366,7 @@ m_ResolvedPackages:
     - 3.0.35
     - 3.0.36
     - 3.0.37
+    - 3.0.38
     compatible:
     - 3.0.15
     - 3.0.16
@@ -384,7 +385,8 @@ m_ResolvedPackages:
     - 3.0.35
     - 3.0.36
     - 3.0.37
-    verified: 3.0.37
+    - 3.0.38
+    verified: 3.0.38
   dependencies:
   - name: com.unity.ext.nunit
     version: 1.0.6
@@ -3221,6 +3223,7 @@ m_ResolvedPackages:
     - 1.2.4
     - 1.2.5
     - 1.2.6
+    - 1.2.7
     compatible:
     - 1.0.1
     - 1.1.0
@@ -3239,6 +3242,7 @@ m_ResolvedPackages:
     - 1.2.4
     - 1.2.5
     - 1.2.6
+    - 1.2.7
     verified: 1.0.1
   dependencies:
   - name: com.unity.test-framework
@@ -3337,6 +3341,7 @@ m_ResolvedPackages:
     - 1.13.0
     - 1.14.0
     - 1.15.1
+    - 1.15.2
     compatible:
     - 1.4.0
     - 1.4.1
@@ -3359,6 +3364,7 @@ m_ResolvedPackages:
     - 1.13.0
     - 1.14.0
     - 1.15.1
+    - 1.15.2
     verified: 1.4.3
   dependencies:
   - name: com.unity.modules.androidjni

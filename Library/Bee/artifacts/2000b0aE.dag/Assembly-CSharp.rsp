@@ -330,6 +330,10 @@
 -r:"Library/Bee/artifacts/2000b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/ModTheCube/Cube.cs"
+"Assets/Scripts/Vectors/CustomBounce.cs"
+"Assets/Scripts/Vectors/GuardAI.cs"
+"Assets/Scripts/Vectors/SmoothLookAtTurret.cs"
+"Assets/Scripts/Vectors/VectorVisualizer.cs"
 -langversion:9.0
 
 /deterministic

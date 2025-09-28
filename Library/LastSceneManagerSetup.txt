@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/ModTheCube/Scene.unity
+- path: "Assets/Scenes/Experimento 4 Rebote Personalizado (Reflexi\xF3n de Vectores).unity"
   isLoaded: 1
   isActive: 1
   isSubScene: 0
