@@ -57,10 +57,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\ModTheCube\Cube.cs" />
-    <Compile Include="Assets\Scripts\Vectors\VectorVisualizer.cs" />
-    <Compile Include="Assets\Scripts\Vectors\GuardAI.cs" />
-    <Compile Include="Assets\Scripts\Vectors\SmoothLookAtTurret.cs" />
     <Compile Include="Assets\Scripts\Vectors\CustomBounce.cs" />
+    <Compile Include="Assets\Scripts\Vectors\SmoothLookAtTurret.cs" />
+    <Compile Include="Assets\Scripts\Vectors\GuardAI.cs" />
+    <Compile Include="Assets\Scripts\Vectors\VectorVisualizer.cs" />
+    <Compile Include="Assets\Scripts\ThirdPersonCamera.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
