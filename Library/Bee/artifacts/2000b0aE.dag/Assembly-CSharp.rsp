@@ -97,7 +97,7 @@
 -define:ENABLE_TERRAIN
 -define:ENABLE_TILEMAP
 -define:ENABLE_TIMELINE
--define:ENABLE_LEGACY_INPUT_MANAGER
+-define:ENABLE_INPUT_SYSTEM
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.6f1-x86_64/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
@@ -304,6 +304,7 @@
 -r:"D:/Videojuegos-Proyects/CuboMagico/Cubo Mágico/Library/PackageCache/com.unity.testtools.codecoverage@1.0.1/lib/ReportGenerator/ReportGeneratorMerged.dll"
 -r:"D:/Videojuegos-Proyects/CuboMagico/Cubo Mágico/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
 -r:"Library/Bee/artifacts/2000b0aE.dag/Unity.EditorCoroutines.Editor.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.InputSystem.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aE.dag/Unity.PlasticSCM.Editor.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aE.dag/Unity.Rider.Editor.ref.dll"
@@ -330,11 +331,18 @@
 -r:"Library/Bee/artifacts/2000b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/ModTheCube/Cube.cs"
+"Assets/Scripts/Core/DoorController.cs"
+"Assets/Scripts/Core/IInteractable.cs"
+"Assets/Scripts/Core/LootChestController.cs"
+"Assets/Scripts/Core/TerminalController.cs"
+"Assets/Scripts/Player/FirstPersonController.cs"
+"Assets/Scripts/Player/PlayerInteractor.cs"
 "Assets/Scripts/ThirdPersonCamera.cs"
 "Assets/Scripts/Vectors/CustomBounce.cs"
 "Assets/Scripts/Vectors/GuardAI.cs"
 "Assets/Scripts/Vectors/SmoothLookAtTurret.cs"
 "Assets/Scripts/Vectors/VectorVisualizer.cs"
+"Assets/Settings/Actions/PlayerInputActions.cs"
 -langversion:9.0
 
 /deterministic

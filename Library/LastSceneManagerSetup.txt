@@ -1,5 +1,5 @@
 sceneSetups:
-- path: "Assets/Scenes/Guia #7/Misi\xF3n C La C\xE1mara Inteligente.unity"
+- path: Assets/Scenes/Guia #9/Parte 1 El Contrato - Creando la Interfaz IInteractable.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
